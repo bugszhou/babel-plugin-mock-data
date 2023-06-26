@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-mock-data",
+  "version": "1.0.0",
+  "description": "小程序data mock",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/babel-plugin-mock-data.git"
+  },
+  "keywords": [
+    "mini",
+    "program",
+    "data",
+    "mock"
+  ],
+  "author": "yiri.zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/babel-plugin-mock-data/issues"
+  },
+  "homepage": "https://github.com/bugszhou/babel-plugin-mock-data#readme"
+}
